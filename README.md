@@ -10,7 +10,7 @@
 
 ## 💻 My Tech Stack:
 
-[![Java,PHP,HTML,CSS,JS](https://skillicons.dev/icons?i=java,php,html,css,js)](https://skillicons.dev)
+[![Java,PHP,MySQL,HTML,CSS,JS](https://skillicons.dev/icons?i=java,php,mysql,html,css,js)](https://skillicons.dev)
 
 ## 🏆 My Stats:
 

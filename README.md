@@ -15,7 +15,7 @@
 
 <p>
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cdigruttola&show_icons=true&count_private=true&theme=dark"/> &nbsp;&nbsp;
-    <img height=175 alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdigruttola&show_icons=true&theme=dark"/> &nbsp;&nbsp;
+    <img height=175 alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdigruttola&layout=compact&theme=dark"/> &nbsp;&nbsp;
     <img height=175 alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=cdigruttola&&theme=dark"/>
 </p>
 

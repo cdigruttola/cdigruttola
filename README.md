@@ -10,11 +10,19 @@
 
 </div>
 
-![Carmine Di Gruttola's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdigruttola&show_icons=true&theme=buefy)
+## 💻 My Tech Stack:
+
+[![Java,PHP,HTML,CSS,JS](https://skillicons.dev/icons?i=java,php,html,css,js)](https://skillicons.dev)
+
+## 🏆 My Stats:
+
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cdigruttola&show_icons=true&count_private=true&theme=dark"/>
 <br>
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cdigruttola&&theme=buefy)
+<img height=175 alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=cdigruttola&&theme=dark"/>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdigruttola&show_icons=true&theme=buefy)
+<img height=175 alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdigruttola&show_icons=true&theme=dark"/>
+</p>
 
 ## References
 

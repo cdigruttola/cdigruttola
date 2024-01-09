@@ -3,9 +3,9 @@
 <div align="center">
     ## I'm a Software Engineer.
     
-    [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/cdigruttola1) &nbsp;
-    [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/cdigruttola/) &nbsp;
-    [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:c.digruttola1@gmail.com?subject=Hello%20Carmine,%20From%20Github)
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/cdigruttola1) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/cdigruttola/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:c.digruttola1@gmail.com?subject=Hello%20Carmine,%20From%20Github)
 
 </div>
 

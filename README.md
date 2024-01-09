@@ -1,12 +1,11 @@
 # 👋 Hi, I'm **Carmine Di Gruttola** 👋
 
 <div align="center">
-
-## I'm a Software Engineer.
-
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/cdigruttola1) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/cdigruttola/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:c.digruttola1@gmail.com?subject=Hello%20Carmine,%20From%20Github)
+    ## I'm a Software Engineer.
+    
+    [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/cdigruttola1) &nbsp;
+    [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/cdigruttola/) &nbsp;
+    [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:c.digruttola1@gmail.com?subject=Hello%20Carmine,%20From%20Github)
 
 </div>
 
@@ -17,11 +16,9 @@
 ## 🏆 My Stats:
 
 <p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cdigruttola&show_icons=true&count_private=true&theme=dark"/>
-<br>
-<img height=175 alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=cdigruttola&&theme=dark"/>
-<br>
-<img height=175 alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdigruttola&show_icons=true&theme=dark"/>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cdigruttola&show_icons=true&count_private=true&theme=dark"/> &nbsp;&nbsp;
+    <img height=175 alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=cdigruttola&&theme=dark"/> &nbsp;&nbsp;
+    <img height=175 alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdigruttola&show_icons=true&theme=dark"/>
 </p>
 
 ## References

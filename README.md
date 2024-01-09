@@ -1,7 +1,8 @@
 # 👋 Hi, I'm **Carmine Di Gruttola** 👋
 
 <div align="center">
-    ## I'm a Software Engineer.
+
+## I'm a Software Engineer.
     
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/cdigruttola1) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/cdigruttola/) &nbsp;

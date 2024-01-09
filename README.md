@@ -1,8 +1,14 @@
 # 👋 Hi, I'm **Carmine Di Gruttola** 👋
 
+<div align="center">
+
 ## I'm a Software Engineer.
 
-### E-Commerce development is my passion as well as my job.
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/cdigruttola1) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/cdigruttola/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:c.digruttola1@gmail.com?subject=Hello%20Carmine,%20From%20Github)
+
+</div>
 
 ![Carmine Di Gruttola's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdigruttola&show_icons=true&theme=buefy)
 <br>
